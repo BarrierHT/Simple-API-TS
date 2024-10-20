@@ -1,0 +1,11 @@
+# Envs
+.env
+
+# Node
+node_modules/
+
+# Dist
+dist
+
+# Configs
+.vscode
